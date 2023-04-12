@@ -1,0 +1,15 @@
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\capaNegocio.exe
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\capaNegocio.deps.json
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\capaNegocio.runtimeconfig.json
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\capaNegocio.runtimeconfig.dev.json
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\capaNegocio.dll
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\ref\capaNegocio.dll
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\bin\Debug\net5.0\capaNegocio.pdb
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.AssemblyInfoInputs.cache
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.AssemblyInfo.cs
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.csproj.CoreCompileInputs.cache
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.dll
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\ref\capaNegocio.dll
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.pdb
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.genruntimeconfig.cache
