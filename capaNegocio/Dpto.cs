@@ -12,10 +12,10 @@ namespace capaNegocio
         private int nroDpto;
 
         //Constructor de la clase sin parametros
-        public Dpto():base()
+        public Dpto(string c, int n, string l, string p, string pro, int m2c, int np, int nd) : base( c, n, l, p, pro, m2c)
         {
-            this.nroDpto = 0;
-            this.nroPiso = 0;
+            this.nroDpto=nd;
+            this.nroPiso=np;
         }
 
         //Propiedades de los atributos

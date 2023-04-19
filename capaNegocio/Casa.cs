@@ -10,10 +10,10 @@ namespace capaNegocio
     {
         private int m2Terreno;
 
-        //Constructor de la clase sin parametros
-        public Casa()
+        //Constructor de la clase 
+        public Casa(string c, int n, string l, string p, string pro, int m2c, int m2t) : base(c, n, l, p, pro, m2c)
         {
-            this.m2Terreno = 0;
+            this.m2Terreno = m2t;
         }
 
         //Propiedades de los atributos
@@ -21,6 +21,11 @@ namespace capaNegocio
         {
             set { m2Terreno = value; }
             get { return this.m2Terreno; }
+        }
+
+        public override string ToString()
+        {
+            return calle + " " + nro + ", " +localidad + ", " + partido + ", " + provincia ;
         }
     }
 }

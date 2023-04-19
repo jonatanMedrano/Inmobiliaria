@@ -13,3 +13,4 @@ C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.dll
 C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\ref\capaNegocio.dll
 C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.pdb
 C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.genruntimeconfig.cache
+C:\repoVisualStudio\InmobiliariaTP\capaNegocio\obj\Debug\net5.0\capaNegocio.csproj.AssemblyReference.cache

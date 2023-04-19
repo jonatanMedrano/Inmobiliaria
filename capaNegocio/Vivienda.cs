@@ -15,17 +15,24 @@ namespace capaNegocio
         protected string partido;
         protected string provincia;
 
-        //Contructor de la clase sin parametros
-        public Vivienda()
+        //Contructor de la clase 
+        public Vivienda(string c, int n, string l, string p, string pro, int m2c)
         {
-            this.calle = "";
-            this.nro = 0;
-            this.localidad = "";
-            this.partido = "";
-            this.provincia = "";
+            this.calle = c;
+            this.nro = n;
+            this.m2Cubiertos = m2c;
+            this.localidad = l;
+            this.partido = p;
+            this.provincia = pro;
         }
 
         //Propiedades de los atributos
+        public String Calle
+        {
+            set { calle = value; }
+            get { return this.calle; }
+        }
+
         public int Nro
         {
             set { nro = value; }
