@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "capaUsuarioForm/1.0.0": {
+        "dependencies": {
+          "capaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "capaUsuarioForm.dll": {}
+        }
+      },
+      "capaNegocio/1.0.0": {
+        "runtime": {
+          "capaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capaUsuarioForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "capaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
